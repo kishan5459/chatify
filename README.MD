@@ -1,5 +1,11 @@
 <h1 align="center">✨ Chatify - Full-Stack Chat App ✨</h1>
 
+Check out the live web: [https://chatify-f8jr.onrender.com](https://chatify-f8jr.onrender.com)
+
+> ⚠️ **Note:** Chatify is deployed on a free-tier server. This means the backend may take a few seconds to start if the server has been idle due to inactivity.
+
+---
+
 ## Highlights
 
 - 🔐 **Custom JWT Authentication** (no 3rd-party auth)
@@ -29,3 +35,18 @@
 - Clean responsive frontend with Tailwind & DaisyUI
 
 ---
+
+## Live Demo
+
+Access Chatify online: [https://chatify-f8jr.onrender.com](https://chatify-f8jr.onrender.com)
+
+---
+
+## Tech Stack
+
+- **Backend:** Node.js, Express, MongoDB, Redis, Cloudinary, Socket.io
+- **Frontend:** React, Tailwind CSS, DaisyUI, Zustand
+- **Authentication:** JWT
+- **Caching:** Redis (Upstash)
+- **Real-time:** Socket.io
+- **Rate-limiting:** Arcjet
