@@ -12,9 +12,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "ioredis": "^5.8.0",
-    "nodemailer": "^7.0.6"
-  }
+  "description": ""
 }
